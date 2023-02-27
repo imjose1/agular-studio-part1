@@ -1,0 +1,13 @@
+.box{
+    /* display: flex; */
+    padding: 10px;
+
+}
+
+.col1{
+    border-style: dotted;
+
+}
+.row{
+    text-align: center;
+}
